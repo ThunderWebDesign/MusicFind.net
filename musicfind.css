@@ -1,0 +1,21 @@
+body
+{
+    background-image:url("http://paperlief.com/images/tiesto-concert-wallpaper-3.jpg")
+ 
+}
+body
+{
+    background-attachment: fixed;}
+   
+    
+    
+
+    #locate { position: absolute; visibility: visible; left: 410px; top: 100px; z-index: 200; } 
+    body
+    {
+font-family:verdana;
+    }
+    #location { position: absolute; visibility: visible; left: 600px; top: 471px; z-index: 200; } 
+    
+    #locator{ position: absolute; visibility: visible; left: 600px; top: 871px; z-index: 200; } 
+    #locaterino{ position: absolute; visibility: visible; left: 600px; top: 670px; z-index: 200; } 
