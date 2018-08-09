@@ -1,0 +1,5 @@
+body
+{
+background-image:url("Concert5.jpg")
+}
+#locate { position: absolute; visibility: visible; left: 530px; top: 100px; z-index: 200; background-color:coral;} 

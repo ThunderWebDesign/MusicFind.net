@@ -1,0 +1,5 @@
+body
+{
+background-image:url(Rock.jpg)
+}
+#locate { position: absolute; visibility: visible; left: 330px; top: 100px; z-index: 200; } 
